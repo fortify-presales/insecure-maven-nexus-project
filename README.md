@@ -27,5 +27,3 @@ mvn -q test
 Security note
 
 This repository intentionally contains unsafe code patterns under `com.microfocus.internal.insecure` and a demo `InsecureTrustAllSsl` in `sample-app`. These are provided only to test SAST tooling (Fortify, Sonar, etc.). Do NOT use insecure examples in production or enable them against production systems.
-
-If you want, I can add CI steps to run the SAST scan and publish the report automatically.
