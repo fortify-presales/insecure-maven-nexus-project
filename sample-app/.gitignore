@@ -1,0 +1,20 @@
+# Default ignored files
+.idea
+*.iml
+*.fpr
+*.zip
+*.pdf
+.fod/
+.fortify/
+target/
+.classpath
+.project
+.settings/
+.env
+iqReport.json
+.venv
+.debricked.multiprojects.txt
+.history
+dependencies.txt
+debricked.fingerprints.txt
+/.vscode/settings.json
